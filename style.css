@@ -1,0 +1,28 @@
+
+
+.square {
+    border: 3px solid green;
+    border-radius: 10%;
+    width: 30px;
+    height: 30px;
+    text-align: -webkit-center;
+}
+
+#box {
+    border: 3px solid red;
+    margin: 274px;
+}
+
+.flex {
+    display: flex;
+}
+
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.end {
+    display: flex;
+    justify-content: end;
+}
